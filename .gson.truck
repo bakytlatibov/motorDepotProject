@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "RENULT",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 2,
+    "name": "VOLVO ",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 3,
+    "name": "DAF XT",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  }
+]
